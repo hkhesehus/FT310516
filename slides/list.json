@@ -1,1 +1,8 @@
-["index.md"]
+[
+    "index.html",
+    "recap.html",
+    "closure.html",
+    "this.html",
+    "the-ways-of-this.html",
+    "the-dom.html"
+]

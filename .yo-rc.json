@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Recap, what is this, promises and jQuery intro",
+    "packageVersion": "0.0.0",
+    "revealTheme": "beige",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "hkhesehus",
+    "githubRepository": "FT150416"
+  }
+}

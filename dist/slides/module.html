@@ -1,0 +1,16 @@
+<h2>Simple module implementation</h2>
+
+<pre><code class="javascript">const myModule = (function () {
+	const foo = 1;
+	function increment () {
+		foo++;
+	}
+	function decrement () {
+		foo--;
+	}
+	function get () {
+		return foo;
+	}
+	return { increment, decrement, get };
+}());
+</code></pre>

@@ -71,7 +71,8 @@ module.exports = (grunt) ->
                         'slides/**'
                         'bower_components/**'
                         'js/**'
-                        'resources/**'
+                        'resources/**',
+                        '!secret.json'
                     ]
                     dest: 'dist/'
                 },{

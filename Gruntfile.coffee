@@ -3,6 +3,7 @@ module.exports = (grunt) ->
 
     grunt.initConfig
         pkg: grunt.file.readJSON 'package.json'
+        secret: grunt.file.readJSON 'secret.json'
 
         watch:
 
@@ -89,7 +90,7 @@ module.exports = (grunt) ->
                 push: true
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
                 login: 'hkhesehus'
-                token: '962b9784ad8d0b1517dfe81f60e77ae3ea7ff56f'
+                token: '<%= secret.token %>'
             pages:
                 options:
                     remote: '<%= pkg.repository.url %>'

@@ -89,12 +89,12 @@ module.exports = (grunt) ->
                 commit: true
                 push: true
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
-                login: 'hkhesehus'
-                token: '<%= secret.token %>'
             pages:
                 options:
                     remote: '<%= pkg.repository.url %>'
                     branch: 'gh-pages'
+                    login: 'hkhesehus'
+                    token: '<%= secret.token %>'
         
 
 

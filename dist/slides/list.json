@@ -10,5 +10,6 @@
     "document-queryselector.html",
     "jquery-traversing.html",
     "jquery-traversing-2.html",
-    "creating-dom-nodes.html"
+    "creating-dom-nodes.html",
+    "promises.html"
 ]

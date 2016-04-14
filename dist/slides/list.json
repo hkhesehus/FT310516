@@ -3,10 +3,12 @@
     "recap.html",
     "closure.html",
     "this.html",
+    "this-2.html",
     "the-ways-of-this.html",
     "the-dom.html",
     "the-dom-2.html",
     "document-queryselector.html",
     "jquery-traversing.html",
-    "jquery-traversing-2.html"
+    "jquery-traversing-2.html",
+    "creating-dom-nodes.html"
 ]

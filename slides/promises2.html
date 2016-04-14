@@ -1,0 +1,6 @@
+<pre><code class="javascript">fs.getFile("myFile", function (err, content) {
+	if (err) {
+		return console.error("Error reading file");
+	}
+	doAwesomeThing(content);
+});</code></pre>

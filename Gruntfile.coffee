@@ -92,6 +92,8 @@ module.exports = (grunt) ->
                 options:
                     remote: '<%= pkg.repository.url %>'
                     branch: 'gh-pages'
+                    login: 'hkhesehus'
+                    token: '962b9784ad8d0b1517dfe81f60e77ae3ea7ff56f'
         
 
 

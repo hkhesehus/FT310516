@@ -3,7 +3,6 @@ module.exports = (grunt) ->
 
     grunt.initConfig
         pkg: grunt.file.readJSON 'package.json'
-        secret: grunt.file.readJSON 'secret.json'
 
         watch:
 
@@ -94,8 +93,6 @@ module.exports = (grunt) ->
                 options:
                     remote: '<%= pkg.repository.url %>'
                     branch: 'gh-pages'
-                    login: 'hkhesehus'
-                    token: '<%= secret.token %>'
         
 
 

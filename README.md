@@ -1,1 +1,3 @@
-# Recap, what is this, promises and jQuery intro
+# Hesehustemplate - the old and the new
+
+## Hesehus-frontend-task-runner

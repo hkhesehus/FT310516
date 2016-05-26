@@ -1,11 +1,11 @@
 {
   "generator-reveal": {
-    "presentationTitle": "Recap, what is this, promises and jQuery intro",
+    "presentationTitle": "HesehusTemplate, the task runner and more",
     "packageVersion": "0.0.0",
     "revealTheme": "beige",
     "useSass": false,
     "deployToGithubPages": true,
     "githubUsername": "hkhesehus",
-    "githubRepository": "FT150416"
+    "githubRepository": "FT310516"
   }
 }

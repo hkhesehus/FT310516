@@ -1,11 +1,39 @@
 [
     "index.html",
-    "hesehustemplate-ancient.html",
-    "hesehustemplate-ancient-props.html",
-    "hesehustemplate-old.html",
-    "hesehustemplate-old-props.html",
-    "hesehustemplate-new.html",
-    "hesehustemplate-new-props.html",
+    [
+        "hesehustemplate-ancient.html",
+        "hesehustemplate-ancient-props.html"
+    ],
+    [
+        "hesehustemplate-old.html",
+        "hesehustemplate-old-props.html"
+    ],
+    [
+        "hesehustemplate-new.html",
+        "hesehustemplate-new-props.html"
+    ],
     "no-hlib.html",
-    "no-hlib2.html"
+    "no-hlib2.html",
+    [
+        "module-modal.html",
+        "module-modal-old-install.html",
+        "module-modal-old-update.html"
+    ],
+    [
+        "module-modal-npm.html",
+        "module-modal-npm-install.html",
+        "module-modal-npm-update.html"
+    ],
+    [
+        "module-use-public-npm.html",
+        "module-use-public-npm-example.html"
+    ],
+    [
+        "task-runner.html",
+        "task-runner-props.html",
+        "task-runner-install.html",
+        "task-runner-update.html",
+        "task-runner-usage.html"
+    ],
+    "live-demo-time.html"
 ]

@@ -1,27 +1,3 @@
 [
-    "index.html",
-    "recap.html",
-    "closure.html",
-    "module.html",
-    "json.html",
-    "json2.html",
-    "json3.html",
-    "this.html",
-    "this-2.html",
-    "the-ways-of-this.html",
-    "the-dom.html",
-    "the-dom-intro.html",
-    "document-queryselector.html",
-    "jquery-traversing.html",
-    "jquery-traversing-2.html",
-    "the-dom-2.html",
-    "store-jquery-ref.html",
-    "store-jquery-ref2.html",
-    "creating-dom-nodes.html",
-    "promises.html",
-    "promises2.html",
-    "promises3.html",
-    "promises4.html",
-    "promises5.html",
-    "browserstack.html"
+    "index.html"
 ]

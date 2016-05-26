@@ -12,10 +12,12 @@
         "hesehustemplate-new.html",
         "hesehustemplate-new-props.html"
     ],
-    "no-hlib.html",
-    "no-hlib2.html",
     [
-        "module-modal.html",
+        "no-hlib.html",
+        "no-hlib2.html"
+    ],
+    [
+        "module-modal-old.html",
         "module-modal-old-install.html",
         "module-modal-old-update.html"
     ],
